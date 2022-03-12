@@ -39,7 +39,7 @@ int main(){
 
      std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
      cin.get();
-     cout<<"Thank You for using my program";
+     cout<<"Thank You for using my program" << endl << "Have a great day";
 
      return 0;
 
